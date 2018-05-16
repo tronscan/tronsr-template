@@ -1,5 +1,3 @@
-# Team
-
 ## Founder
 
 Name: [name]
