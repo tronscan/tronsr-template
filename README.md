@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width="20%" src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
+  <img width="40%" src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
   <br>
   Tronscan Super Representative Template
   <br>
