@@ -16,6 +16,14 @@
   <a href="https://tronscan.org">Tronscan.org</a>
 </p>
 
+## Intro
+
+Tronscan provides a way for Super Representatives to publish their information right where the voters are, on Tronscan!
+
+Super Representatives can use this template to build a static page which will be shown on Tronscan. The link will be placed in the voting overview page right next to the name.
+
+By editing files in the repository on Github the Super Representative can manage their own content.
+
 ## How to use
 
 __This guide assumes that you already have an account which has Super Representative (candidate) status__
@@ -62,6 +70,8 @@ After you filled in the template it can now be published on https://tronscan.org
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
 
 ## Example
+
+The example shows which files are presented where. Whenever the files on Github are modified the page will instantly be updated
 
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/example-page.png)
 
