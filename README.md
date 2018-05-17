@@ -25,6 +25,19 @@ Super Representatives can use this template to build a static page which will be
 
 By editing files in the repository on Github the Super Representative can manage their own content.
 
+
+## Example
+
+The example shows which files are presented where. Whenever the files on Github are modified the page will instantly be updated
+
+![](https://raw.githubusercontent.com/tronscan/docs/master/images/example-page.png)
+
+__Example Super Representative Pages__
+
+* [CryptoGuyInZA](https://www.tronscan.org/#/representative/27WDUwfv7FzWmNuj4rbrmRjxQvgHnC46Kcf)
+* [Skypeople](https://www.tronscan.org/#/representative/27d5JV5sJH2ERb7Kddcp5p2n2yR2zuKCAQs)
+* [CryptoChain](https://www.tronscan.org/#/representative/27WK11uSBUjxmnbtQ3AArs1hLpUkPg4WAJF)
+
 ## How to use
 
 __This guide assumes that you already have an account which has Super Representative (candidate) status__
@@ -69,12 +82,6 @@ After you filled in the template it can now be published on https://tronscan.org
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)
 * View your new Page!  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
-
-## Example
-
-The example shows which files are presented where. Whenever the files on Github are modified the page will instantly be updated
-
-![](https://raw.githubusercontent.com/tronscan/docs/master/images/example-page.png)
 
 ## FAQ
 
