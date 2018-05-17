@@ -83,6 +83,10 @@ After you filled in the template it can now be published on https://tronscan.org
 * View your new Page!  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
 
+## Translations
+
+Checkout the [Pages](/pages) directory for the translation readme
+
 ## FAQ
 
 * __I've modified a file but the changes aren't visible on tronscan.org?__  
