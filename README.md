@@ -52,7 +52,7 @@ Files are written in markdown format. An excellent intro can be found at https:/
 
 * Update the logo.png and banner.png  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/github-upload-files.png)  
-Then click on "choose your files" and make sure the logo or banner you want to upload is named `logo.png` or `banner.jpg` to overwrite the placeholder images.
+Then click on "choose your files" and make sure the logo or banner you want to upload is named `logo.png` or `banner.png` to overwrite the placeholder images.
 
 After you filled in the template it can now be published on https://tronscan.org
 
