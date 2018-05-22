@@ -1,1 +1,2 @@
-A short introduction about your team
+Ekibiniz hakkında kısa bir tanıtım
+super proje
