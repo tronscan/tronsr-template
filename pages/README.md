@@ -28,3 +28,4 @@ by creating an issue in the `tronscan/tronsr-template` repository
 * __fr__ = French
 * __de__ = Deutsch
 * __en__ = English
+* __es__ = spanish
